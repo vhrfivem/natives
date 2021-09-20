@@ -15,12 +15,12 @@ void TASK_VEHICLE_TEMP_ACTION(Ped driver, Vehicle vehicle, int action, int time)
 '5 - turn right 90 + braking
 '6 - brake strong (handbrake?) until time ends
 '7 - turn left + accelerate
-'7 - turn right + accelerate
+'8 - turn right + accelerate
 '9 - weak acceleration
 '10 - turn left + restore wheel pos to center in the end
 '11 - turn right + restore wheel pos to center in the end
 '13 - turn left + go reverse
-'14 - turn left + go reverse
+'14 - turn right + go reverse
 '16 - crash the game after like 2 seconds :)
 '17 - keep actual state, game crashed after few tries
 '18 - game crash
